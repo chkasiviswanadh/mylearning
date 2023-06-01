@@ -1,1 +1,1 @@
-im testing this file for the purpose of merge function in devops
+im testing this file for the purpose of merge function in git
