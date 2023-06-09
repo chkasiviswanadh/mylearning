@@ -4,3 +4,4 @@ WORKDIR /tmp
 ENV myname kasiviswanadh
 COPY newfile /tmp
 ADD testfile.tar.gz /tmp
+VOLUME ["/volume1"]
