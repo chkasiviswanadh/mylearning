@@ -1,3 +1,2 @@
-new line fixing from kasi
-testing conflict file
-confict success.
+only confict testing
+testing for conflict
