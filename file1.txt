@@ -1,5 +1,3 @@
-Hello world !!!!!!
-devops king is here 
-new line coming here
-added from the branch kasi 
-success.
+new line fixing from kasi
+testing conflict file
+confict success.
