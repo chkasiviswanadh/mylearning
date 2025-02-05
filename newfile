@@ -4,9 +4,17 @@ here is third line of my file
  
 branch testing successfull.....!!!!!
 
+<<<<<<< HEAD
 
 listed new line here
 
 very bad testing 
 
 line added to check the rebase command
+=======
+<<<<<<< HEAD
+listed new line here
+=======
+line added to check the rebase command
+>>>>>>> 6d4d575 (edited new file)
+>>>>>>> 42d0c80 (edited new file)
